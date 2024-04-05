@@ -2,27 +2,22 @@
 <h3 align="center">A Full-stack Developer from 🇪🇹</h3>
 
 # Technical skills
-# Technologies
+## Technologies
   Web, Python, NodeJS, TS
 
-# Frameworks
+## Frameworks
   vueJs, tailwind, Express, React, D3.js, Django, Flask, Telegram API
 
-Tools
+## Tools
 VScode, Github, Yarn, Git, NPM, Pypi, Azure, Heroku, CI, Docker, Bash
 
-# Additional Experience
+## Additional Experience
 Application Deployment, Database Management, Unit Testing, Linux, Team Programming, Pair Programming, REST API, NOSQL
 
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coramdeo59" alt="coramdeo59" /></a> </p>
-
-
-
-
-Currently enhancing my skills in:
+## Currently enhancing my skills in:
 
 - Clean Code Principles 🧹
 - Docker and Kubernetes 🚢
@@ -45,7 +40,3 @@ Currently enhancing my skills in:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coramdeo59&show_icons=true&locale=en&layout=compact" alt="coramdeo59" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coramdeo59&show_icons=true&locale=en" alt="coramdeo59" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coramdeo59&" alt="coramdeo59" /></p>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=coramdeo59&limit=5&theme=flat&combine_all_yearly_contributions=true)
