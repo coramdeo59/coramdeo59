@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Melkamu Elias</h1>
-<h3 align="center">A Full-stack Developer from 🇪🇹</h3>
+<h1 align="center">Hi 👋, I'm Melkam</h1>
+<h3 align="center">A Full-stack Developer</h3>
 
 # Technical skills
 ## Technologies
