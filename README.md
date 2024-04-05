@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melkamu Elias</h1>
 <h3 align="center">A Full-stack Developer from 🇪🇹</h3>
 <div align="center"> <img src="https://raw.githubusercontent.com/coramdeo59/coramdeo59/main/melkam.png"> </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coramdeo59&label=Profile%20views&color=0e75b6&style=flat" alt="coramdeo59" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coramdeo59" alt="coramdeo59" /></a> </p>
 
