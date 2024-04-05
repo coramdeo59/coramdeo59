@@ -3,7 +3,6 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/coramdeo59/coramdeo59/main/melkam.png"> </div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coramdeo59" alt="coramdeo59" /></a> </p>
 
 
 
