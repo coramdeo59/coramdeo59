@@ -15,18 +15,7 @@ VScode, Github, Yarn, Git, NPM, Pypi, Azure, Heroku, CI, Docker, Bash
 Application Deployment, Database Management, Unit Testing, Linux, Team Programming, Pair Programming, REST API, NOSQL
 
 
-
-
-## Currently enhancing my skills in:
-
-- Clean Code Principles 🧹
-- Docker and Kubernetes 🚢
-- AWS (Amazon Web Services) ☁️
-- Cloud Technologies ☁️
-- Microservices Architecture 🌐
-- Scalability and Performance Optimization 🚀
-- Try to enhance my skills on my current stack
-
+---------------------------------------------------------------------------------
 - 👨‍💻 All of my projects are available at [https://github.com/coramdeo59](https://github.com/coramdeo59)
 
 - 📫 How to reach me **melkamuelias59@gmail.com**
