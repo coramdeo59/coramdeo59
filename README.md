@@ -3,10 +3,10 @@
 
 # Technical skills
 ## Technologies
-  Web, Python, Typescript, Go
+  Web, Nodejs, Typescript, Go
 
 ## Frameworks
-  React, vueJs, Nest.js, Go(gin/echo/fiber) 
+  React, Nextjs, Nest.js, Go 
 
 ## Tools
 VScode, Github, Yarn, Git, NPM, Pypi, Azure, Heroku, CI, Docker, Bash
